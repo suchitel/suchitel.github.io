@@ -49,16 +49,17 @@ Much of the research I am involved in feeds into and is validated by tools we bu
 ## Student Supervision
 
 **Currently (Co-)Supervised PhD Students:**
-- Mariano Cerrutti, University of Buenos Aires
-- Sebastian Zudaire, Instituto Balseiro
-- Ivan Postolski, University of Buenos Aires
-- Alexis Soifer, University of Buenos Aires
+- Tiberiu Andrei Georgescu, Imperial College London
+- Hernan Galgliardi, Universidad de Buenos Aires
+- Florencia Zanollo, Universidad de Buenos Aires
+- Alexis Soifer, Universidad de Buenos Aires
+- Juan Felipe Perdomo, Universidad de Buenos Aires
 
 **Past (Co-)Supervised PhD Students:**
-- [Leandro Nahabedian](http://lafhis.dc.uba.ar/en/~lnahabedian)
-- [Rodrigo Castaño](https://www.linkedin.com/in/rcastano/)
+- [Sebastian Zudaire](https://www.linkedin.com/in/sebastian-zudaire/)
+- [Leandro Nahabedian](https://www.linkedin.com/in/leanahabedian/)
 - [Daniel Ciolek](https://www.linkedin.com/in/daniel-alfredo-ciolek/)
-- [Esteban Pavese](http://lafhis.dc.uba.ar/~epavese/)
+- [Esteban Pavese](https://www.linkedin.com/in/esteban-pavese-14014921/)
 - [German Sibay](https://www.linkedin.com/in/german-sibay-04076a3/)
 - [Hernan Czemerinski](https://www.linkedin.com/in/hernán-czemerinski-62831a176/)
 - [Nicolas D'Ippolito](https://www.linkedin.com/in/ndippolito/)
