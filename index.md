@@ -2,7 +2,7 @@
 
 ## About
 
-I am a Full Professor at the [Department of Computing](http://www.dc.uba.ar/), [Facultad de Ciencias Exactas y Naturales](http://www.exactas.uba.ar/), [Universidad de Buenos Aires](http://www.uba.ar/) and a Principal Researcher for [CONICET](http://www.conicet.gov.ar/). I also hold a Readership at the [Department of Computing](http://www.doc.ic.ac.uk/), [Imperial College London](http://www.imperial.ac.uk/), UK. I am affiliated to [Universidad de San Andres][https://www.udesa.edu.ar] and I am a visiting professor at the [Japanese National Institute of Informatics](https://www.nii.ac.jp).
+I am a Full Professor at the [Department of Computing](http://www.dc.uba.ar/), [Facultad de Ciencias Exactas y Naturales](http://www.exactas.uba.ar/), [Universidad de Buenos Aires](http://www.uba.ar/) and a Principal Researcher for [CONICET](http://www.conicet.gov.ar/). I also hold a Readership at the [Department of Computing](http://www.doc.ic.ac.uk/), [Imperial College London](http://www.imperial.ac.uk/), UK. I am affiliated to [Universidad de San Andres](https://www.udesa.edu.ar) and I am a visiting professor at the [Japanese National Institute of Informatics](https://www.nii.ac.jp).
 
 I head the [LaFHIS - Laboratory on Fundamentals and Tools for Software Engineering](http://www.lafhis.dc.uba.ar/). 
 
