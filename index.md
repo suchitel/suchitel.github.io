@@ -14,7 +14,7 @@ My [daughter's take](http://lafhis.dc.uba.ar/WhiteBoard) on my research.
 
 ## Publications
 
-Publications can be found on [dblp](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/u/Uchitel:Sebasti=aacute=n.html), [Google Scholar](http://scholar.google.com/citations?user=v-rnR5UAAAAJ&hl=en), and [Microsoft Academic Search](https://academic.microsoft.com/search?q=Sebastian%20Uchitel&f=&orderBy=0&skip=0&take=10).
+Publications can be found on [dblp](https://dblp.org/pid/21/1391.html) and [Google Scholar](http://scholar.google.com/citations?user=v-rnR5UAAAAJ&hl=en).
 
 Much of the research I am involved in feeds into and is validated by tools we build. Most of my more recent work gets implemented as part of [MTSA](http://mtsa.dc.uba.ar), which supports partial behaviour model specification and analysis and also controller synthesis techniques. Other tools are not so well packaged but are available via my students and collaborators.
 
