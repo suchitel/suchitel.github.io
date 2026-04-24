@@ -1,4 +1,4 @@
-![Sebastian Uchitel](SebastianUchitel.jpg)
+![Sebastian Uchitel](/SebastianUchitel.jpg)
 
 ## About
 
