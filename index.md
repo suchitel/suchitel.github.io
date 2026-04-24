@@ -69,6 +69,3 @@ Much of the research I am involved in feeds into and is validated by tools we bu
 - [Dario Fischbein](http://www.linkedin.com/in/fdario)
 - [Paulo Henrique Maia](http://www.great.ufc.br/index.php?option=com_content&view=article&id=357%3Apaulo-henrique-mendes-maia&catid=37%3Aprofessorespesquisadores&Itemid=85&lang=en)
 
-## Others
-
-- [My favourite photographer](http://www.vaninasuriano.com.ar/)
