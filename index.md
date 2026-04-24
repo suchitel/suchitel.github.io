@@ -1,5 +1,3 @@
-# Sebastián Uchitel
-
 ## About
 
 I am the head of [LaFHIS - Laboratory on Fundamentals and Tools for Software Engineering](http://www.lafhis.dc.uba.ar/). I am a Full Professor at the [Department of Computing](http://www.dc.uba.ar/), [Facultad de Ciencias Exactas y Naturales](http://www.exactas.uba.ar/), [Universidad de Buenos Aires](http://www.uba.ar/) and a Principal Researcher for [CONICET](http://www.conicet.gov.ar/). I am also a professor at the [Department of Computing](http://www.doc.ic.ac.uk/), [Imperial College London](http://www.imperial.ac.uk/), UK and visiting professor at the [Japanese National Institute of Informatics](https://www.nii.ac.jp).
