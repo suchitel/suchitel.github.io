@@ -1,0 +1,9 @@
+theme: minima
+title: Sebastián Uchitel
+description: Professor at Universidad de Buenos Aires & Imperial College London
+url: "https://suchitel.github.io"
+
+minima:
+  skin: classic
+
+markdown: kramdown
