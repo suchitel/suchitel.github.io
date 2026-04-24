@@ -2,11 +2,9 @@
 
 ## About
 
-I am the head of [LaFHIS - Laboratory on Fundamentals and Tools for Software Engineering](http://www.lafhis.dc.uba.ar/). I am a Full Professor at the [Department of Computing](http://www.dc.uba.ar/), [Facultad de Ciencias Exactas y Naturales](http://www.exactas.uba.ar/), [Universidad de Buenos Aires](http://www.uba.ar/) and a Principal Researcher for [CONICET](http://www.conicet.gov.ar/). I am also a professor at the [Department of Computing](http://www.doc.ic.ac.uk/), [Imperial College London](http://www.imperial.ac.uk/), UK and visiting professor at the [Japanese National Institute of Informatics](https://www.nii.ac.jp).
+I am a Full Professor at the [Department of Computing](http://www.dc.uba.ar/), [Facultad de Ciencias Exactas y Naturales](http://www.exactas.uba.ar/), [Universidad de Buenos Aires](http://www.uba.ar/) and a Principal Researcher for [CONICET](http://www.conicet.gov.ar/). I also hold a Readership at the [Department of Computing](http://www.doc.ic.ac.uk/), [Imperial College London](http://www.imperial.ac.uk/), UK. I am affiliated to [Universidad de San Andres][https://www.udesa.edu.ar] and I am a visiting professor at the [Japanese National Institute of Informatics](https://www.nii.ac.jp).
 
-## Prospective Students
-
-If you are looking for supervision for your MSc/Licenciado thesis, you can find some projects I am interested in here: ([Spanish](https://lafhis.dc.uba.ar/node/287)). If you are interested in pursuing a PhD, send me an email.
+I head the [LaFHIS - Laboratory on Fundamentals and Tools for Software Engineering](http://www.lafhis.dc.uba.ar/). 
 
 ## Research
 
@@ -37,6 +35,7 @@ Much of the research I am involved in feeds into and is validated by tools we bu
 
 ## Selected External Activities
 
+- Editor in Chief, [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), 2022–2024
 - Board Member, [Communications of the ACM](http://cacm.acm.org), ACM, 2018–2020
 - Board of Directors, [YPF](http://ypf.com), 2012–2015
 - Associate Editor in Chief, [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), 2006–2010
